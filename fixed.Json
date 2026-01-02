@@ -39,6 +39,16 @@
       "username": "free2",
       "createdDate": "2026-01-03T10:01:40.153Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-A86Q-AQY2-8G9I-9M4R",
+      "hwid": "",
+      "durationDays": 2,
+      "expiryDate": "",
+      "status": "active",
+      "username": "free3",
+      "createdDate": "2026-01-03T10:01:49.985Z",
+      "activationDate": ""
     }
   ]
 }
