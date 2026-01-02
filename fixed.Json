@@ -19,6 +19,16 @@
       "username": "MAKI",
       "createdDate": "2026-01-03T09:50:59.470Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-KJ3K-082L-4HY5-N2V8",
+      "hwid": "",
+      "durationDays": 2,
+      "expiryDate": "",
+      "status": "active",
+      "username": "free1",
+      "createdDate": "2026-01-03T10:01:29.319Z",
+      "activationDate": ""
     }
   ]
 }
