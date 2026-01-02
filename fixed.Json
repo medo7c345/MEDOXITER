@@ -1,14 +1,3 @@
 {
-  "licenses": [
-    {
-      "key": "MEDOX-G2D7-J2UU-9VWT-HX5Q",
-      "hwid": "",
-      "durationDays": 30,
-      "expiryDate": "",
-      "status": "active",
-      "username": "XIT",
-      "createdDate": "2026-01-03T08:24:39.810Z",
-      "activationDate": ""
-    }
-  ]
+  "licenses": []
 }
