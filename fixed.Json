@@ -1,3 +1,14 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "key": "MEDOX-1868-CKCZ-0J5C-GA6N",
+      "hwid": "",
+      "durationDays": 365,
+      "expiryDate": "",
+      "status": "active",
+      "username": "MEDODEV",
+      "createdDate": "2026-01-03T08:28:15.585Z",
+      "activationDate": ""
+    }
+  ]
 }
