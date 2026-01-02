@@ -49,6 +49,16 @@
       "username": "free3",
       "createdDate": "2026-01-03T10:01:49.985Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-G6HG-IIR9-9Z0U-MZI5",
+      "hwid": "",
+      "durationDays": 2,
+      "expiryDate": "",
+      "status": "active",
+      "username": "free4",
+      "createdDate": "2026-01-03T10:01:57.954Z",
+      "activationDate": ""
     }
   ]
 }
