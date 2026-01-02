@@ -29,6 +29,16 @@
       "username": "free1",
       "createdDate": "2026-01-03T10:01:29.319Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-36VR-WFQS-Z0DX-RH3A",
+      "hwid": "",
+      "durationDays": 2,
+      "expiryDate": "",
+      "status": "active",
+      "username": "free2",
+      "createdDate": "2026-01-03T10:01:40.153Z",
+      "activationDate": ""
     }
   ]
 }
