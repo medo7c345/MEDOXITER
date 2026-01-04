@@ -29,16 +29,6 @@
       "username": "free5",
       "createdDate": "2026-01-03T10:02:04.435Z",
       "activationDate": ""
-    },
-    {
-      "key": "MEDOX-COOL-BEST-VIP1-DEV3",
-      "hwid": "",
-      "durationDays": 2,
-      "expiryDate": "",
-      "status": "active",
-      "username": "vip",
-      "createdDate": "2026-01-03T10:06:03.916Z",
-      "activationDate": ""
     }
   ]
 }
