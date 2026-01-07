@@ -9,6 +9,16 @@
       "username": "MEDODEV",
       "createdDate": "2026-01-03T08:28:15.585Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-9ZKB-1TVM-KI69-4TQ1",
+      "hwid": "",
+      "durationDays": 1,
+      "expiryDate": "",
+      "status": "active",
+      "username": "demo",
+      "createdDate": "2026-01-08T04:22:46.479Z",
+      "activationDate": ""
     }
   ]
 }
