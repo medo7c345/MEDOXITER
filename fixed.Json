@@ -19,6 +19,16 @@
       "username": "demo",
       "createdDate": "2026-01-08T04:22:46.479Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-SELF-ISH0-XXXX-6874",
+      "hwid": "",
+      "durationDays": 2,
+      "expiryDate": "",
+      "status": "active",
+      "username": "selfesh",
+      "createdDate": "2026-01-09T01:10:51.365Z",
+      "activationDate": ""
     }
   ]
 }
