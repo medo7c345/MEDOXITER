@@ -39,6 +39,16 @@
       "username": "free2",
       "createdDate": "2026-01-24T04:39:44.591Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-VELO-CIRA-MEDO-T003",
+      "hwid": "",
+      "durationDays": 2,
+      "expiryDate": "",
+      "status": "active",
+      "username": "free3",
+      "createdDate": "2026-01-24T04:40:02.657Z",
+      "activationDate": ""
     }
   ]
 }
