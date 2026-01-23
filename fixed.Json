@@ -19,6 +19,16 @@
       "username": "SELFISH",
       "createdDate": "2026-01-23T23:37:02.230Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-VELO-CIRA-ZYTR-ONE1",
+      "hwid": "",
+      "durationDays": 2,
+      "expiryDate": "",
+      "status": "active",
+      "username": "free",
+      "createdDate": "2026-01-24T04:39:22.716Z",
+      "activationDate": ""
     }
   ]
 }
