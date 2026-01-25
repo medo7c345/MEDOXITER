@@ -29,16 +29,6 @@
       "username": "free",
       "createdDate": "2026-01-24T04:39:22.716Z",
       "activationDate": ""
-    },
-    {
-      "key": "MEDOX-VELO-CIRA-SELF-ISH2",
-      "hwid": "",
-      "durationDays": 2,
-      "expiryDate": "",
-      "status": "active",
-      "username": "free2",
-      "createdDate": "2026-01-24T04:39:44.591Z",
-      "activationDate": ""
     }
   ]
 }
