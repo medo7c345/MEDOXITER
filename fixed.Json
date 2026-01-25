@@ -89,16 +89,6 @@
       "username": "free7",
       "createdDate": "2026-01-24T04:45:31.252Z",
       "activationDate": ""
-    },
-    {
-      "key": "MEDOX-VIL8-O7L5-FX6T-NIRC",
-      "hwid": "",
-      "durationDays": 2,
-      "expiryDate": "",
-      "status": "active",
-      "username": "free8",
-      "createdDate": "2026-01-24T04:45:46.729Z",
-      "activationDate": ""
     }
   ]
 }
