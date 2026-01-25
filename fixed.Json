@@ -49,16 +49,6 @@
       "username": "free3",
       "createdDate": "2026-01-24T04:40:02.657Z",
       "activationDate": ""
-    },
-    {
-      "key": "MEDOX-VELO-CIRA-SUSC-EY04",
-      "hwid": "",
-      "durationDays": 2,
-      "expiryDate": "",
-      "status": "active",
-      "username": "free4",
-      "createdDate": "2026-01-24T04:43:29.567Z",
-      "activationDate": ""
     }
   ]
 }
