@@ -19,6 +19,16 @@
       "username": "Tester",
       "createdDate": "2026-01-31T05:44:33.604Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-HZZ5-PBOT-1L08-8V1N",
+      "hwid": "",
+      "durationDays": 2,
+      "expiryDate": "",
+      "status": "active",
+      "username": "partner",
+      "createdDate": "2026-02-01T07:37:40.656Z",
+      "activationDate": ""
     }
   ]
 }
