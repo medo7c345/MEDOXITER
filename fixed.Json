@@ -9,6 +9,16 @@
       "username": "MEDODEV",
       "createdDate": "2026-01-03T08:28:15.585Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-PZ0G-JQXV-3UEU-VPQ5",
+      "hwid": "",
+      "durationDays": 1,
+      "expiryDate": "",
+      "status": "active",
+      "username": "Tester",
+      "createdDate": "2026-01-31T05:44:33.604Z",
+      "activationDate": ""
     }
   ]
 }
