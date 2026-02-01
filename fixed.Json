@@ -29,6 +29,16 @@
       "username": "partner",
       "createdDate": "2026-02-01T07:37:40.656Z",
       "activationDate": ""
+    },
+    {
+      "key": "MEDOX-6M8M-XNIW-UFQF-ZJLN",
+      "hwid": "",
+      "durationDays": 2,
+      "expiryDate": "",
+      "status": "active",
+      "username": "Ruthless",
+      "createdDate": "2026-02-01T09:14:46.525Z",
+      "activationDate": ""
     }
   ]
 }
